@@ -9,6 +9,6 @@ public class GitTest {
         System.out.println("hot-fix分支");
         System.out.println("master分支");
         System.out.println("使用push将代码推送到远程库中");
-        System.out.println("使用push将代码推送到远程库中");
+        System.out.println("使用pull拉取最新的项目源码");
     }
 }
