@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("使用push将代码推送到远程库中");
         System.out.println("使用pull拉取最新的项目源码");
         System.out.println("gitTest又发生修改了");
+        System.out.println("远程库发生改变了");
     }
 }
