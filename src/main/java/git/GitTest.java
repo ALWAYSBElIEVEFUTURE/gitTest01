@@ -14,5 +14,6 @@ public class GitTest {
         System.out.println("远程库发生改变了");
         System.out.println("刚刚提交还未push的commit操作");
         System.out.println("新建了dev分支");
+        System.out.println("在feature/dev分支上修改代码");
     }
 }
